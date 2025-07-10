@@ -1,9 +1,9 @@
-***Personal Information
+##Personal Information
 Name: Hao Bian (边昊)
 Sex: Male
 Nationality: China
 Email: hao.bian@sjtu.edu.cn
-Educational Experience
+##Educational Experience
 Xi'an Jiaotong University
 B.Sc. in Physics
 2019.09 – 2023.06 | Dept. of Physics
