@@ -33,7 +33,7 @@ M.Eng. in Integrated Circuit Science and Engineering
 
 # Publication of Journal Articles
 
-1. **Impact of Film Thickness on Sensitivity and Magnetoresistance of CrOxNy Cryogenic Temperature Sensor and Its Mechanisms** (IOP Journal of Physics D, in process)  
+1. **Impact of Film Thickness on Sensitivity and Magnetoresistance of CrOxNy Cryogenic Temperature Sensor and Its Mechanisms** (IOP Journal of Physics D, under review)  
 
 # Publication of Conferences
 
