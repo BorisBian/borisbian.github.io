@@ -23,7 +23,7 @@ M.Eng. in Integrated Circuit Science and Engineering
 # Scores
 
 **TOEFL**: 92  
-**GRE**: 315 (unofficial, pending official report)  
+**GRE**: V+Q 315 Analytical 3.5
 **GPA**: 3.70/4.00 (Bachelor) | 3.59/4.00 (Master)  
 
 # Working Experience
