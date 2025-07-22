@@ -6,7 +6,7 @@
 **Sex**: Male  
 **Nationality**: China  
 **Email**: hao.bian@sjtu.edu.cn  
-**Github Page**: https://github.com/borisbian
+**Github Page**: [https://github.com/borisbian](https://github.com/borisbian)  
 
 # Educational Experience
 
