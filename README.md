@@ -12,7 +12,7 @@
 理学学士 物理学（钱学森实验班）B.Sc. in Physics (Honor)   
 2019.09 – 2023.06 | 物理学院 Dept. of Physics  
 
-**石溪大学 Stony Brook University**  
+**纽约州立大学石溪分校 Stony Brook University-SUNY**  
 物理学（交换项目）Physics (Exchange Program)   
 2021.08 – 2021.12  | 物理与天文学院 Dept. of Physics & Astronomy  
 
