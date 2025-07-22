@@ -1,4 +1,4 @@
-中文版简历地址：https://borisbian.github.io/cv_chinese
+中文版简历地址：[https://borisbian.github.io/cv_chinese](https://borisbian.github.io/cv_chinese)
 
 # Personal Information
   
