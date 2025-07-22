@@ -2,7 +2,7 @@ English version CV: [https://borisbian.github.io](https://borisbian.github.io)
 
 # 个人信息 
   
-**姓名**: 边昊
+**姓名**: 边昊  
 **性别**: 男  
 **国籍**: 中国  
 **电子邮件**: hao.bian@sjtu.edu.cn  
@@ -47,4 +47,6 @@ System Verilog, C++, python, LaTeX, deep learning, Cadence SKILL, tcl, cmd
 
 # 兴趣
 
-驾驶, 滑板
+驾驶, 滑板  
+
+English version CV: [https://borisbian.github.io](https://borisbian.github.io)  
