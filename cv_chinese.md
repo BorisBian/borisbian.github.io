@@ -6,7 +6,7 @@ English version CV: [https://borisbian.github.io](https://borisbian.github.io)
 **性别**: 男  
 **国籍**: 中国  
 **电子邮件**: hao.bian@sjtu.edu.cn  
-**Github 主页**: https://github.com/borisbian
+**Github 主页**: [https://github.com/borisbian](https://github.com/borisbian)  
 
 # 教育经历
 
