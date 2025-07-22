@@ -48,3 +48,5 @@ System Verilog, C++, python, LaTeX, deep learning, Cadence SKILL, tcl, cmd
 # Hobbies
 
 Driving, skateboard  
+
+中文版简历地址：[https://borisbian.github.io/cv_chinese](https://borisbian.github.io/cv_chinese)  
