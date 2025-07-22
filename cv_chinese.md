@@ -1,4 +1,4 @@
-English version CV: https://borisbian.github.io
+English version CV: [https://borisbian.github.io](https://borisbian.github.io)
 
 # 个人信息 
   
