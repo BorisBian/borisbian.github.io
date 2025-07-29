@@ -20,13 +20,13 @@ English version CV: [https://borisbian.github.io](https://borisbian.github.io)
 
 **上海交通大学**  
 工学硕士 集成电路科学与工程  
-2023.09 – 2026.03 (期望) | 微电子学院  
+2023.09 – 2026.03 (预计) | 微电子学院  
 
 # 分数
 
 **托福**: 98 (单日) | 100 (拼分)  
 **GRE**: 315 (语文与数学) | 3.5 (写作)  
-**绩点**: 3.70/4.00 (本科) | 3.59/4.00 (硕士)  
+**绩点**: 3.71/4.00 (本科) | 3.59/4.00 (硕士)  
 
 # 工作经历
 
@@ -35,7 +35,7 @@ English version CV: [https://borisbian.github.io](https://borisbian.github.io)
 
 # 期刊论文
 
-1. **Impact of Film Thickness on Sensitivity and Magnetoresistance of CrOxNy Cryogenic Temperature Sensor and Its Mechanisms** (IOP Journal of Physics D, under review)  
+1. **Impact of Film Thickness on Sensitivity and Magnetoresistance of CrOxNy Cryogenic Temperature Sensor and Its Mechanisms** (AIP Journal of Applied Physics, under review)  
 
 # 会议论文
 
