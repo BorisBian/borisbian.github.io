@@ -26,7 +26,7 @@ M.Eng. in Integrated Circuit Science and Engineering
 
 **TOEFL**: 98 (Single date) | 100 (MyBest)  
 **GRE**: 315 (Verbal & Quantitative) | 3.5 (Analytical)  
-**GPA**: 3.70/4.00 (Bachelor) | 3.59/4.00 (Master)  
+**GPA**: 3.71/4.00 (Bachelor) | 3.59/4.00 (Master)  
 
 # Working Experience
 
@@ -35,7 +35,7 @@ M.Eng. in Integrated Circuit Science and Engineering
 
 # Publication of Journal Articles
 
-1. **Impact of Film Thickness on Sensitivity and Magnetoresistance of CrOxNy Cryogenic Temperature Sensor and Its Mechanisms** (IOP Journal of Physics D, under review)  
+1. **Impact of Film Thickness on Sensitivity and Magnetoresistance of CrOxNy Cryogenic Temperature Sensor and Its Mechanisms** (AIP Journal of Applied Physics, under review)  
 
 # Publication of Conferences
 
