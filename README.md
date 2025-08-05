@@ -35,11 +35,11 @@ Programmer
 Development of the UI of an EDA software  
 2020.07-2020.08  
 
-**Prof. Salman's Group at SBU**
+**Prof. Salman's Group at SBU**  
 Development and FPGA verification of SIMON part  
 2021.12-2022.03
 
-**Prof. Sun's Group at XJTU**
+**Prof. Sun's Group at XJTU**  
 Reproduce and refinement of a CNN accelerator  
 2022.02-2022.12  
 
