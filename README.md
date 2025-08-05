@@ -28,14 +28,29 @@ M.Eng. in Integrated Circuit Science and Engineering
 **GRE**: 315 (Verbal & Quantitative) | 3.5 (Analytical)  
 **GPA**: 3.71/4.00 (Bachelor) | 3.59/4.00 (Master)  
 
-# Working Experience
+# Relevant Experience
 
-**Synopsys**: 2020.07-2020.08  
-**Xi'an Silicon Dancer**: 2022.12-2023.01  
+**Synopsys**  
+Programmer  
+Development of the UI of an EDA software  
+2020.07-2020.08  
+
+**Prof. Salman's Group at SBU**
+Development and FPGA verification of SIMON part  
+2021.12-2022.03
+
+**Prof. Sun's Group at XJTU**
+Reproduce and refinement of a CNN accelerator  
+2022.02-2022.12  
+
+**Xi'an Silicon Dancer**  
+Intern  
+Developed the BSCAN subpart  
+2022.12-2023.01  
 
 # Publication of Journal Articles
 
-1. **Impact of Film Thickness on Sensitivity and Magnetoresistance of CrOxNy Cryogenic Temperature Sensor and Its Mechanisms** (AIP Journal of Applied Physics, under review)  
+1. **Impact of Film Thickness on Sensitivity and Magnetoresistance of CrOxNy Cryogenic Temperature Sensor and Its Mechanisms** (AIP Journal of Applied Physics, under review)
 
 # Publication of Conferences
 
