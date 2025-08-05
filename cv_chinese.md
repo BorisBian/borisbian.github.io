@@ -12,7 +12,7 @@ English version CV: [https://borisbian.github.io](https://borisbian.github.io)
 
 **西安交通大学**  
 理学学士 物理学（钱学森实验班）  
-2019.09 – 2023.06 | Dept. of Physics  
+2019.09 – 2023.06 | 物理学院  
 
 **纽约州立大学石溪分校**  
 物理学（交换项目）    
