@@ -41,6 +41,17 @@ English version CV: [https://borisbian.github.io](https://borisbian.github.io)
 
 1. **High-Precision Foam Target Fabrication Using Two-Photon Polymerization for Double-Cone Ignition Experiments** (IFSA2025)  
 
+# 获奖
+
+校级一等奖学金 | 2020.12  
+优秀学生 | 2020.12  
+优秀志愿者 | 2021.05   
+三等奖学金 | 2021.12  
+优秀学生干部 | 2022.12   
+优秀毕业生 | 2023.06  
+校级二等奖学金 | 2023.09  
+校级二等奖学金 | 2024.09  
+
 # 专业技能
 
 System Verilog, C++, python, LaTeX, deep learning, Cadence SKILL, tcl, cmd  
