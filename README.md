@@ -41,6 +41,17 @@ M.Eng. in Integrated Circuit Science and Engineering
 
 1. **High-Precision Foam Target Fabrication Using Two-Photon Polymerization for Double-Cone Ignition Experiments** (IFSA2025)  
 
+# Awards
+
+First-class Scholarship (University Level) | 2020.12
+Outstanding Student | 2020.12
+Outstanding Volunteer | 2021.05
+Third-class Scholarship | 2021.12
+Outstanding Student Leader | 2022.12
+Outstanding Graduate | 2023.06
+Second-class Scholarship (University Level) | 2023.09
+Second-class Scholarship (University Level) | 2024.09
+
 # Professional Skills
 
 System Verilog, C++, python, LaTeX, deep learning, Cadence SKILL, tcl, cmd  
